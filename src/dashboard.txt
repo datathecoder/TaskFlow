@@ -1,0 +1,3 @@
+Dashboard module created 
+Added summary cards and task overview 
+Improved dashboard structure after review 
